@@ -1,6 +1,6 @@
 # Areeb Portfolio
 
-This is my personal portfolio website built using React, Vite, TypeScript, and Tailwind CSS.
+This is my personal website  for my portfolio built by using react , Vite, TypeScript, and Tailwind CSS.
 
 ## 🚀 Tech Stack
 - React
@@ -8,7 +8,7 @@ This is my personal portfolio website built using React, Vite, TypeScript, and T
 - Tailwind CSS.
 - Vite.
 
-## 📌 Features
+# 📌 Features
 - Responsive Design
 - Modern UI
 - Fast Performance
