@@ -17,4 +17,4 @@ This is my personal website  for my portfolio built by using react , Vite, TypeS
 Coming Soon...
 
 ---
-Made with  by Areeb
+Madde by me
