@@ -34,7 +34,7 @@
     --success-foreground: 225 30% 6%;
 
     --warning: 38 92% 55%;
-    --warning-foreground: 225 30% 6%;
+    --warning-foreground: 225 30% 7%;
 
     --border: 225 15% 18%;
     --input: 225 15% 18%;
@@ -54,7 +54,7 @@
     --sidebar-foreground: 210 40% 85%;
     --sidebar-primary: 175 80% 50%;
     --sidebar-primary-foreground: 225 30% 6%;
-    --sidebar-accent: 225 20% 16%;
+    --sidebar-accent: 225 20% 15%;
     --sidebar-accent-foreground: 210 40% 85%;
     --sidebar-border: 225 15% 18%;
     --sidebar-ring: 175 80% 50%;
