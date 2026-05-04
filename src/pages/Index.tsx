@@ -15,7 +15,7 @@ const Index = () => {
         <CryptoTable />
         <footer className="text-center py-6">
           <p className="text-xs text-muted-foreground">
-            CryptoPulse Dashboard · Market data is simulated for demo purposes
+            CryptoPulse Dashboard · Market data is simulated for the demo purposes
           </p>
         </footer>
       </main>
