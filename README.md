@@ -16,5 +16,5 @@ This is my personal website  for my portfolio built by using react , Vite, TypeS
 ## 🔗 Live Preview
 Coming Soon...
 
----
-Madde by me
+
+Made by me
